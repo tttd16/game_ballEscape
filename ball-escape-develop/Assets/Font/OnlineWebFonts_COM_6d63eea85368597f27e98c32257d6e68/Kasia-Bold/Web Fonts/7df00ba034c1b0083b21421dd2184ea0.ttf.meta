@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 03e1ac18cdc254d3ebfa8c5f860407a4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kasia-Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 808e53a41e2de41b3ba56d3e2141aa9d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
